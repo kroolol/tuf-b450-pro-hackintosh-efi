@@ -90,6 +90,10 @@ Audio. (Depending on the audio equipment you are using "layout id" value may nee
      <h1>Possible Issues
 
 
+
+
+
+
 <table border="1">
     <body>
         <tr>
@@ -105,8 +109,8 @@ Audio. (Depending on the audio equipment you are using "layout id" value may nee
         </tr>
         <tr>
             <td>Frame drops on Discord.</td>
-            <td>Probably non-Metal API.</td>
-            <td>Disable ''Hardware Accelertion'' on Discord.</td>
+            <td>Probably non-Metal API.</td> 
+            <td>Disable ''Hardware Acceleration'' on Discord.</td>
         </tr>
     </body>
 </table> 
