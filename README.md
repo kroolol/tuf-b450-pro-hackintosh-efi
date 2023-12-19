@@ -76,10 +76,40 @@ Ryzen Power Management (You also need to install the AMD Power Gadget app.)
 GPU Acceleration (OCLP root patch is required. Other than that, with the other necessary boot args implemented in EFI, there's nothing extra you need to do.)
 
 
-Ethernet.
+Ethernet
 
 
 Apple Services (Serial number may need to be regenerted.)
+
+
+Audio. (Depending on the audio equipment you are using "layout id" value may need to be changed.)
+
+
+<article>
+   <header>
+     <h1>Possible Issues
+
+
+<table border="1">
+    <body>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Causes</td>
+            <td>Solution<br />
+            </td>
+        </tr>
+        <tr>
+            <td>The black screen in Photos and Maps app on Monterey(and Apple Maps-based windows in other apps)</td>
+            <td>These applications work based on the Metal API in Monterey</td>
+            <td>Downgrade Big Sur</td>
+        </tr>
+        <tr>
+            <td>Frame drops on Discord.</td>
+            <td>Probably non-Metal API.</td>
+            <td>Disable ''Hardware Accelertion'' on Discord.</td>
+        </tr>
+    </body>
+</table> 
 
 
 
