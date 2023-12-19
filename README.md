@@ -82,7 +82,7 @@ Ethernet
 Apple Services (Serial number may need to be regenerted.)
 
 
-Audio. (Depending on the audio equipment you are using "layout id" value may need to be changed.)
+Audio (Depending on the audio equipment (headphones an etc.) you are using "layout id" value may need to be changed.)
 
 
 <article>
@@ -104,13 +104,13 @@ Audio. (Depending on the audio equipment you are using "layout id" value may nee
         </tr>
         <tr>
             <td>The black screen in Photos and Maps app on Monterey. (and Apple Maps-based windows in other apps)</td>
-            <td>These applications work based on the Metal API in Monterey</td>
-            <td>Downgrade Big Sur</td>
+            <td>These applications work based on the Metal API on Monterey</td>
+            <td>Downgrade to Big Sur</td>
         </tr>
         <tr>
             <td>Frame drops on Discord.</td>
             <td>Probably due to non-Metal API.</td> 
-            <td>Disable ''Hardware Acceleration'' on Discord.</td>
+            <td>Disable ''Hardware Acceleration'' in Discord.</td>
         </tr>
     </body>
 </table> 
