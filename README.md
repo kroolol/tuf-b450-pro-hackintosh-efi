@@ -103,7 +103,7 @@ Audio. (Depending on the audio equipment you are using "layout id" value may nee
             </td>
         </tr>
         <tr>
-            <td>The black screen in Photos and Maps app on Monterey(and Apple Maps-based windows in other apps)</td>
+            <td>The black screen in Photos and Maps app on Monterey. (and Apple Maps-based windows in other apps)</td>
             <td>These applications work based on the Metal API in Monterey</td>
             <td>Downgrade Big Sur</td>
         </tr>
