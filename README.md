@@ -109,7 +109,7 @@ Audio. (Depending on the audio equipment you are using "layout id" value may nee
         </tr>
         <tr>
             <td>Frame drops on Discord.</td>
-            <td>Probably non-Metal API.</td> 
+            <td>Probably due to non-Metal API.</td> 
             <td>Disable ''Hardware Acceleration'' on Discord.</td>
         </tr>
     </body>
