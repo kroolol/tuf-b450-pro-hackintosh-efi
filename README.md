@@ -27,8 +27,9 @@ System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
 
 
 
-# Tested Versions:
 
+
+# Tested Versions
 
 Big Sur 11.71.1
 
