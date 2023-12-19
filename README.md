@@ -55,6 +55,23 @@ System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
 </html>
 
 
+<article>
+  <header>
+    <h1>Features</h1>
+
+    Ryzen Power Management (You also need to install the AMD Power Gadget app.)
+
+
+    GPU Acceleration (OCLP root patch is required. Other than that, with the other necessary boot args implemented in EFI, there's nothing extra you need to do.)
+
+
+    Ethernet.
+    
+
+    Apple Services (Serial number may need to be regenerted.)
+
+
+
 
 
 
