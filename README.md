@@ -87,7 +87,7 @@ Audio. (Depending on the audio equipment you are using "layout id" value may nee
 
 <article>
    <header>
-     <h1>Possible Issues
+     <h1>Possible Issues</h1>
 
 
 
