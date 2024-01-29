@@ -46,8 +46,12 @@ System Disk: KIOXIA EXCERIA NVMe SSD 250 GB
         <td>Big Sur 11.7.1</td>
     </tr>
     <tr>
-        <td>Monterey 16.6.6</td>
+        <td>Monterey 12.6.6</td>
     </tr>
+    <tr>
+        <td>Ventura 13.4</td>
+    </tr>
+
    
 </table>
 
